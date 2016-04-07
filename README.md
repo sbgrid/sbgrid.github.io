@@ -1,4 +1,5 @@
 # SBGrid
+![SBGrid](SBGRID.png)
 
 ## SBGrid software for Structural Biology
 SBGrid is a non-profit research computing support organization based at Harvard Medical School in Boston.
