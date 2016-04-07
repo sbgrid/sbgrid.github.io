@@ -1,8 +1,11 @@
 # SBGrid
 ![SBGrid](SBGRID.png)
 
-## SBGrid software for Structural Biology
+### SBGrid software for Structural Biology
 SBGrid is a non-profit research computing support organization based at Harvard Medical School in Boston.
+
+# OUTAGE NOTICE -- 9 APR 2106 -- Network upgrade
+SBGrid will be offline for network upgrades 9 APR 2106. Services, including license servers, software updates, and email support, will not be available. We expect to be back online by 10 Apr. 
 
 ### What We Do for Structural Biologists
 We support structural biologists by providing structural biology laboratories with a tested and refined software infrastructure that includes a large library of scientific applications. Members also benefit from access to SBGrid-supported high performance computing (HPC) resources and training opportunities.
