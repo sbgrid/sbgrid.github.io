@@ -8,7 +8,7 @@ SBGrid is a non-profit research computing support organization based at Harvard 
 ## 25 Feb 2017 - 5am to 12pm EST
 SBGrid will be offline for a major network upgrade from 5am to 12pm EST 25 February 2017. 
 Services, including license servers, software updates, and email support, will not be available. 
-Thanks for your patience. We expect to be back online by Noon 25 Feb. Email to '@sbgrid.org' addressess will stil be received during the outage.
+Thanks for your patience. We expect to be back online by Noon 25 Feb. Email to '@sbgrid.org' addressess will still be received during the outage.
 
 ## About SBGrid
 ### Research computing support for Structural Biologists
